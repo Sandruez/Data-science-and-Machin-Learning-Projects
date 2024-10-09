@@ -1,0 +1,2 @@
+ Unstructured data
+Unstructed data is data you'll find outside of the traditional row and column structure (such as in an Excel spreadsheet or pandas DataFrame). Examples of unstructured data include images, audio and natural language.
