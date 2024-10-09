@@ -1,2 +1,7 @@
- Unstructured data
-Unstructed data is data you'll find outside of the traditional row and column structure (such as in an Excel spreadsheet or pandas DataFrame). Examples of unstructured data include images, audio and natural language.
+📊 Unstructured Data: The Untapped Resource
+Unstructured data is any data that doesn’t fit into traditional row-column databases. It includes:
+
+Text: Emails, social media posts, articles
+Multimedia: Images, audio, video
+Other: Sensor outputs, web logs
+Unlike structured data, unstructured data is harder to analyze because it lacks a defined format. However, with tools like NLP, image processing, and deep learning, we can extract valuable insights from this vast and often untapped resource. Many of my projects focus on handling unstructured data to reveal hidden patterns and trends
